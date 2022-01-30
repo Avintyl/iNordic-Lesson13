@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson14</string>
+    <string name="navigate">Create Git Repository</string>
+    <string name="conratulations">Поздравляю с созданием Git Repository!</string>
+</resources>
